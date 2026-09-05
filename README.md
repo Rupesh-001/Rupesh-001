@@ -212,7 +212,7 @@ Backend systems
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+<img src="https://raw.githubusercontent.com/Rupesh-001/Rupesh-001/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
 
 </div>
 
@@ -248,3 +248,4 @@ Backend systems
 Thanks for visiting my profile!
 
 </div>
+

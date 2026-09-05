@@ -141,9 +141,9 @@ Digital evidence management application.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rupesh-001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics">
+<img src="./profile/stats.svg" height="170" alt="GitHub statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupesh-001&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages">
+<img src="./profile/top-langs.svg" height="170" alt="Top languages">
 
 <br><br>
 
@@ -232,4 +232,5 @@ Backend systems
 Thanks for visiting my profile!
 
 </div>
+
 

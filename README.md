@@ -159,9 +159,7 @@ Digital evidence management application.
 <tr>
 <td width="33%" align="center">
 
-### &#128737;
-
-**Cybersecurity**
+### &#128737; Cybersecurity
 
 Security tools  
 Phishing detection  
@@ -169,24 +167,22 @@ Vulnerability assessment
 Secure systems
 
 </td>
+
 <td width="33%" align="center">
 
-### &#129302;
-
-**AI**
+### &#129302; AI
 
 AI applications  
 Automation  
 Intelligent tools
 
 </td>
+
 <td width="33%" align="center">
 
-### &#127760;
+### &#127760; Development
 
-**Development**
-
-Full-stack apps  
+Full-stack applications  
 Web development  
 Backend systems
 

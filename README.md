@@ -80,18 +80,6 @@ Python-based vulnerability scanning project.
 
 ---
 
-### &#127907; Phish-Sim
-
-Phishing simulation project split into frontend and backend components.
-
-**Frontend:** JavaScript, HTML, CSS  
-**Backend:** JavaScript
-
-[&#127760; Frontend](https://github.com/Rupesh-001/Phish-Sim-Frontend)
-
-[&#9881; Backend](https://github.com/Rupesh-001/Phish-Sim-Backend)
-
----
 
 ### &#128231; Phishing Email Detector
 

@@ -1,236 +1,148 @@
-﻿<div align="center">
+<div align="center">
 
-# &#128075; Hi, I'm Rupesh Varma
+<!-- Cyber + Web Development theme: navy, electric blue, cyan, and violet -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:050816,35:071B3D,70:123A78,100:6D28D9&text=RUPESH%20VARMA&fontColor=EAF6FF&fontSize=48&fontAlignY=40&desc=WEB%20DEVELOPER%20%7C%20CYBERSECURITY%20%7C%20DIGITAL%20FORENSICS&descAlignY=60&descSize=14&animation=fadeIn" alt="Rupesh Varma — Web Developer and Cybersecurity" width="100%" />
 
-### &#128737; Cybersecurity &nbsp;|&nbsp; &#129302; AI &nbsp;|&nbsp; &#128187; Full-Stack Development
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+modern+web+experiences;Exploring+Cybersecurity+%26+Digital+Forensics;Learning+by+building+real+projects;Build+%E2%80%A2+Secure+%E2%80%A2+Improve" alt="Animated introduction" />
 
-<p>
-<a href="https://github.com/Rupesh-001">
-<img src="https://img.shields.io/badge/GitHub-Rupesh--001-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-<a href="https://interview-bot-x.vercel.app">
-<img src="https://img.shields.io/badge/Live-InterviewBotX-000000?style=for-the-badge&logo=vercel" alt="InterviewBotX">
-</a>
-<a href="https://evidencechain.onrender.com">
-<img src="https://img.shields.io/badge/Live-DEMS-2F855A?style=for-the-badge&logo=render" alt="Digital Evidence Management System">
-</a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Rupesh-001&style=for-the-badge&color=blueviolet" alt="Profile Views">
+[![GitHub](https://img.shields.io/badge/GitHub-Rupesh--001-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupesh-001)
+[![Repositories](https://img.shields.io/badge/Explore-Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupesh-001?tab=repositories)
 
 </div>
 
 ---
 
-## &#128506; Quick Navigation
+## `> whoami`
 
-[About](#-about-me) |
-[Skills](#-tech-stack) |
-[Projects](#-featured-projects) |
-[Stats](#-github-stats) |
-[Contact](#-lets-connect)
+Hi, I'm **Rupesh Varma** — a web developer and MSc IT student interested in building useful applications and understanding how to make systems more secure.
 
----
+I'm pursuing **MSc IT in Cybersecurity & Digital Forensics at Parul University**. I enjoy working across web development, application security, AI-powered tools, and digital evidence workflows.
 
-## &#128104;&#8205;&#128187; About Me
+```text
+┌──[ Rupesh-001 @ GitHub ]
+├─ role      : Web Developer
+├─ interests : Cybersecurity · Digital Forensics · AI
+├─ building  : Web apps · Developer tools · Security projects
+└─ mindset   : Build thoughtfully. Test carefully. Keep learning.
+```
 
-Hi! I'm **Rupesh Varma**, a developer interested in **cybersecurity, AI-powered applications, secure systems, and modern web development**.
+- 🌐 **Web development:** responsive interfaces, React, JavaScript/TypeScript, APIs, and backend fundamentals.
+- 🛡️ **Cybersecurity:** vulnerability assessment, secure development, and security awareness tools.
+- 🔎 **Digital forensics:** evidence handling, integrity verification, and chain-of-custody workflows.
+- 🤖 **AI & automation:** exploring practical AI-powered applications.
+- 🤝 **Open to:** internships, collaborative projects, and open-source contributions.
 
-I enjoy turning ideas into practical projects, especially projects involving security, automation, intelligent applications, and full-stack development.
-
-### &#127919; What I Focus On
-
-- &#128737; Cybersecurity and secure systems
-- &#129302; AI-powered applications
-- &#128274; Security analysis and phishing detection
-- &#127760; Full-stack web development
-- &#128013; Python development
-- &#9749; Java development
-- &#9889; JavaScript and TypeScript
-
----
-
-## &#9889; Tech Stack
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</p>
-
----
-
-## &#128640; Featured Projects
-
-<details open>
-<summary><b>&#128737; Cybersecurity Projects</b></summary>
-
-<br>
-
-### &#128269; Vulnerability Scanner
-
-Python-based vulnerability scanning project.
-
-**Technology:** Python
-
-[&#128279; Repository](https://github.com/Rupesh-001/Vulnerability-Scanner)
-
----
-
-
-### &#128231; Phishing Email Detector
-
-Security-focused phishing email detection project.
-
-**Technology:** Python, HTML, CSS
-
-[&#128279; Repository](https://github.com/Rupesh-001/phishing-email-detector)
-
----
-
-### &#128272; Secure Pass Analyzer
-
-Java-based password analysis project.
-
-**Technology:** Java
-
-[&#128279; Repository](https://github.com/Rupesh-001/Secure-Pass-Analyzer)
-
-</details>
-
-<details open>
-<summary><b>&#129302; AI & Application Development</b></summary>
-
-<br>
-
-### &#129302; InterviewBotX
-
-AI-oriented interview application built with TypeScript.
-
-**Technology:** TypeScript, JavaScript, CSS
-
-[&#127760; Live Demo](https://interview-bot-x.vercel.app)
-
-[&#128187; Repository](https://github.com/Rupesh-001/InterviewBotX)
-
-</details>
-
-<details open>
-<summary><b>&#128196; Digital Evidence Management</b></summary>
-
-<br>
-
-### &#9878; Digital Evidence Management System
-
-Digital evidence management application.
-
-**Technology:** Python, HTML, CSS
-
-[&#127760; Live Demo](https://evidencechain.onrender.com)
-
-[&#128187; Repository](https://github.com/Rupesh-001/Digital-Evidence-Management-System)
-
-</details>
-
----
-
-## &#128202; GitHub Stats
+## `> tech-stack`
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="170" alt="GitHub statistics">
+### Web development
+[![Web Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,express&theme=dark)](https://skillicons.dev)
 
-<img src="./profile/top-langs.svg" height="170" alt="Top languages">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Rupesh-001&theme=tokyonight&hide_border=true" alt="GitHub streak">
+### Backend, databases & tools
+[![Tools](https://skillicons.dev/icons?i=python,java,firebase,mongodb,mysql,git,github,linux,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
----
-
-## &#127919; Current Focus
+## `> featured-projects`
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### &#128737; Cybersecurity
+### 🌐 [InterviewBotX](https://github.com/Rupesh-001/InterviewBotX)
+AI-powered mock interview application built to help users practice and prepare for interviews.
 
-Security tools  
-Phishing detection  
-Vulnerability assessment  
-Secure systems
+**Stack:** Next.js, TypeScript, Firebase, Vapi AI, Gemini
 
-</td>
-
-<td width="33%" align="center">
-
-### &#129302; AI
-
-AI applications  
-Automation  
-Intelligent tools
+[Live demo](https://interview-bot-x.vercel.app/)
 
 </td>
+<td width="50%" valign="top">
 
-<td width="33%" align="center">
+### 🕵️ [Shadow Protocol](https://github.com/Rupesh-001/shadow-protocol)
+Browser-based multiplayer social deduction game focused on real-time gameplay.
 
-### &#127760; Development
+**Stack:** React, Node.js, WebSockets
 
-Full-stack applications  
-Web development  
-Backend systems
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 [Digital Evidence Management System](https://github.com/Rupesh-001/Digital-Evidence-Management-System)
+Web-based system for managing digital evidence, integrity checks, and chain-of-custody records.
+
+**Stack:** Python, Flask, MongoDB
+
+[Live demo](https://evidencechain.onrender.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [Vulnerability Scanner](https://github.com/Rupesh-001/Vulnerability-Scanner)
+Educational Python project for basic security assessment and identifying potential exposure.
+
+**Stack:** Python, networking fundamentals
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 [Secure Pass Analyzer](https://github.com/Rupesh-001/Secure-Pass-Analyzer)
+Android app for password strength feedback, secure password generation, and security tips.
+
+**Stack:** Java, Android, XML
+
+</td>
+<td width="50%" valign="top">
+
+### 🔑 [Password Strength Analyzer](https://github.com/Rupesh-001/password-strength-analyzer)
+Java project focused on evaluating password strength and identifying weak password patterns.
+
+**Stack:** Java
 
 </td>
 </tr>
 </table>
 
----
-
-## &#128200; Contribution Activity
+## `> github-stats`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Rupesh-001/Rupesh-001/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rupesh-001&show_icons=true&hide_border=true&bg_color=050816&title_color=38BDF8&text_color=DCEBFF&icon_color=A78BFA&rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupesh-001&layout=compact&hide_border=true&bg_color=050816&title_color=38BDF8&text_color=DCEBFF" alt="Most used languages" />
+
+<img width="72%" src="https://streak-stats.demolab.com?user=Rupesh-001&hide_border=true&background=050816&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=DCEBFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak" />
 
 </div>
 
----
-
-## &#128101; GitHub
+## `> contribution-activity`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Public%20Repositories-18-6E40C9?style=for-the-badge&logo=github" alt="Public repositories">
-<img src="https://img.shields.io/github/followers/Rupesh-001?style=for-the-badge&label=Followers" alt="Followers">
+[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Rupesh-001&bg_color=050816&color=38BDF8&line=6366F1&point=E0F2FE&area=true&hide_border=true)](https://github.com/Rupesh-001)
+
+<!-- Keep your existing contribution-snake GitHub Actions workflow unchanged. -->
+<!-- If your workflow publishes a snake SVG, keep its existing image/embed here. -->
 
 </div>
 
----
+## `> currently-focused-on`
 
-## &#128222; Let's Connect
+- Building polished, responsive web applications.
+- Strengthening React, JavaScript/TypeScript, API, and backend skills.
+- Learning secure development and practical cybersecurity workflows.
+- Improving code quality through testing, debugging, and documentation.
+
+## `> connect`
 
 <div align="center">
 
-<a href="https://github.com/Rupesh-001">
-<img src="https://img.shields.io/badge/GitHub-Rupesh--001-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Rupesh--001-111827?style=for-the-badge&logo=github)](https://github.com/Rupesh-001)
+[![Repositories](https://img.shields.io/badge/Projects-Explore-2563EB?style=for-the-badge&logo=github)](https://github.com/Rupesh-001?tab=repositories)
+
+**Build better experiences. Understand the risks. Make technology more secure.**
 
 </div>
-
----
-
-<div align="center">
-
-### &#128161; Build. Secure. Innovate.
-
-Thanks for visiting my profile!
-
-</div>
-
-
